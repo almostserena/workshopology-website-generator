@@ -14,14 +14,11 @@ categories: events
 
 The Making Laboratories is a two day seminar focusing on the topic of **Workshopology**. In it, experts from different fields of research and practice – from academia to fablabs – will team up in order to co-create both guidelines for workshops and physical prototypes of educational activities, collaboratively discussed, designed and prototyped in the FabLab facility. </p>
 
-a big change
-
 ## Organizers
 
-- – Sabina Barcucci, MUSE Fablab (IT)
-- – Jeffrey Bardzell, University of Indiana (USA)
-- – Serena Cangiano, SUPSI Maind (CH)
-- ​
+- Sabina Barcucci, MUSE Fablab (IT)
+- Jeffrey Bardzell, University of Indiana (USA)
+- Serena Cangiano, SUPSI Maind (CH)
 
 
 
