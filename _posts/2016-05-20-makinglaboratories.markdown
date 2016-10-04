@@ -67,7 +67,7 @@ The Making Laboratories is a two day seminar focusing on the topic of **Worksho
 
 ## Program
 
-The complete schedule of the workshop is available here:
+The complete schedule of the workshop is available here:  
 [https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5](https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5)
 
 ## Documentation
