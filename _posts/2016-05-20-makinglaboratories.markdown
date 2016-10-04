@@ -17,8 +17,12 @@ The Making Laboratories is a two day seminar focusing on the topic of **Worksho
 ## Organizers
 
 - Sabina Barcucci, MUSE Fablab (IT)
+
 - Jeffrey Bardzell, University of Indiana (USA)
+
 - Serena Cangiano, SUPSI Maind (CH)
+
+  ​
 
 
 
