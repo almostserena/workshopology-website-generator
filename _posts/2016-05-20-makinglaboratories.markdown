@@ -65,6 +65,8 @@ The Making Laboratories is a two day seminar focusing on the topic of **Worksho
   [https://hackpad.com/Participants-List-Bbv53Eh9SgC](https://hackpad.com/Participants-List-Bbv53Eh9SgC)
 
 
+
+
 ## Program
 
 The complete schedule of the workshop is available here:  
@@ -86,9 +88,9 @@ Format 4: Family friendly makerspaces
 
 
 
+## Pictures
 
-
-
+**[https://www.flickr.com/photos/musefablab/sets/72157668499884330/](https://www.flickr.com/photos/musefablab/sets/72157668499884330/)**
 
 
 
