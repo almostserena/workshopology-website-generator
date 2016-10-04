@@ -60,7 +60,7 @@ The Making Laboratories is a two day seminar focusing on the topic of **Worksho
 
 - – Costantino Bongiorno, *WeMake.cc*
 
-  Participants list
+  **Participants list**
 
   [https://hackpad.com/Participants-List-Bbv53Eh9SgC](https://hackpad.com/Participants-List-Bbv53Eh9SgC)
 
@@ -68,21 +68,21 @@ The Making Laboratories is a two day seminar focusing on the topic of **Worksho
 ## Program
 
 The complete schedule of the workshop is available here:
-https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5
+[https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5](https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5)
 
 ## Documentation
 
-Format 1: Making literacies
-https://hackpad.com/MAKING-LITERACIES-3NWThvkXc8C
+Format 1: Making literacies  
+[https://hackpad.com/MAKING-LITERACIES-3NWThvkXc8C](https://hackpad.com/MAKING-LITERACIES-3NWThvkXc8C)
 
-Format 2: Make Teach Validate
-https://hackpad.com/Make-Teach-Validate-BpMEp9wKnlL
+Format 2: Make Teach Validate  
+[https://hackpad.com/Make-Teach-Validate-BpMEp9wKnlL](https://hackpad.com/Make-Teach-Validate-BpMEp9wKnlL)
 
-Format 3: Cultural preservation
-https://hackpad.com/cultural-preservation-yxESOyvpJUq
+Format 3: Cultural preservation  
+[https://hackpad.com/cultural-preservation-yxESOyvpJUq](https://hackpad.com/cultural-preservation-yxESOyvpJUq)
 
-Format 4: Family friendly makerspaces
-https://hackpad.com/Family-friendly-maker-spaces-aI0tR9NLgy2
+Format 4: Family friendly makerspaces  
+[https://hackpad.com/Family-friendly-maker-spaces-aI0tR9NLgy2](https://hackpad.com/Family-friendly-maker-spaces-aI0tR9NLgy2)
 
 
 
