@@ -16,81 +16,55 @@ The Making Laboratories is a two day seminar focusing on the topic of **Worksho
 
 ## Organizers
 
-- Sabina Barcucci, MUSE Fablab (IT)
+Sabina Barcucci, MUSE Fablab (IT)  
+Jeffrey Bardzell, University of Indiana (USA)  
+Serena Cangiano, SUPSI Maind (CH)  
 
-- Jeffrey Bardzell, University of Indiana (USA)
-
-- Serena Cangiano, SUPSI Maind (CH)
-
-  ​
-
+​
 
 
 ## Participants
 
-- – Tiffany Tseng, *MIT Longlife Kindergarden group, Media Lab, USA*
+– Tiffany Tseng, *MIT Longlife Kindergarden group, Media Lab, USA*  
+– Ricarose Roque, *MIT Longlife Kindergarden group, Media Lab USA*  
+– Daniele Savasta, *Interaction Lab, Yasar University, Izmir, Turkey*  
+– Demet Atınç, *Interaction Lab, Yasar University, Izmir, Turkey*  
+– Tara Whelan, *University of Limerick, Ireland*  
+– Austin Toombs, *Indiana University, USA*  
+– Shad Gross, *Indiana University*  
+– Gabriela Avram, *University of Limerick, Ireland*  
+– Pernille Bjorn, *Datalogistic Institut, University of Copenhagen*  
+– Netta Livari, *University of Oulu, Finland*  
+– Ana Rodriguez, *MUSE Science Museum, Expedition Genomic Lab*  
+– Claudia Marcelloni, *Cern, Geneva*  
+– Kasper Skov, *Datalogistic Institut, University of Copenhagen*  
+– Julian Sanin, *UniBz*  
+– Angelo Ventura, *UniBz*  
+– Costantino Bongiorno, *WeMake.cc*  
+– Alice Mela, TODO  
 
-- – Ricarose Roque, *MIT Longlife Kindergarden group, Media Lab USA*
-
-- – Daniele Savasta, *Interaction Lab, Yasar University, Izmir, Turkey*
-
-- – Demet Atınç, *Interaction Lab, Yasar University, Izmir, Turkey*
-
-- – Tara Whelan, *University of Limerick, Ireland*
-
-- – Austin Toombs, *Indiana University, USA*
-
-- – Shad Gross, *Indiana University*
-
-- – Gabriela Avram, *University of Limerick, Ireland*
-
-- – Pernille Bjorn, *Datalogistic Institut, University of Copenhagen*
-
-- – Netta Livari, *University of Oulu, Finland*
-
-- – Ana Rodriguez, *MUSE Science Museum, Expedition Genomic Lab*
-
-- – Claudia Marcelloni, *Cern, Geneva*
-
-- – Kasper Skov, *Datalogistic Institut, University of Copenhagen*
-
-- – Julian Sanin, *UniBz*
-
-- – Angelo Ventura, *UniBz*
-
-- – Costantino Bongiorno, *WeMake.cc*
-
-  **Participants list**
-
-  [https://hackpad.com/Participants-List-Bbv53Eh9SgC](https://hackpad.com/Participants-List-Bbv53Eh9SgC)
-
+**Participants [https://hackpad.com/Participants-List-Bbv53Eh9SgC](https://hackpad.com/Participants-List-Bbv53Eh9SgC)
 
 
 
 ## Program
 
 The complete schedule of the workshop is available here:  
-[https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5](https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5)
+[https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5](https://hackpad.com/Making-laboratories-Schedule-dpbs2UM86Z5)  
+
+
 
 ## Documentation
 
-Format 1: Making literacies  
-[https://hackpad.com/MAKING-LITERACIES-3NWThvkXc8C](https://hackpad.com/MAKING-LITERACIES-3NWThvkXc8C)
-
-Format 2: Make Teach Validate  
-[https://hackpad.com/Make-Teach-Validate-BpMEp9wKnlL](https://hackpad.com/Make-Teach-Validate-BpMEp9wKnlL)
-
-Format 3: Cultural preservation  
-[https://hackpad.com/cultural-preservation-yxESOyvpJUq](https://hackpad.com/cultural-preservation-yxESOyvpJUq)
-
-Format 4: Family friendly makerspaces  
-[https://hackpad.com/Family-friendly-maker-spaces-aI0tR9NLgy2](https://hackpad.com/Family-friendly-maker-spaces-aI0tR9NLgy2)
-
+Format 1: [Making literacies](https://hackpad.com/MAKING-LITERACIES-3NWThvkXc8C)  
+Format 2: [Make Teach Validate  ](https://hackpad.com/Make-Teach-Validate-BpMEp9wKnlL)  
+Format 3: [Cultural preservation ](https://hackpad.com/cultural-preservation-yxESOyvpJUq)  
+Format 4: [Family friendly makerspaces](https://hackpad.com/Family-friendly-maker-spaces-aI0tR9NLgy2)
 
 
 ## Pictures
 
-**[https://www.flickr.com/photos/musefablab/sets/72157668499884330/](https://www.flickr.com/photos/musefablab/sets/72157668499884330/)**
+[Flickr gallery](https://www.flickr.com/photos/musefablab/sets/72157668499884330/)
 
 
 
