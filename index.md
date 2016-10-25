@@ -10,22 +10,25 @@ subtitle: Workshopology is a series of events and a community that share and mak
 
 # What is Workshopology? Workshopology is a series of events and a community that share and make knowledge around education in the age of digital fabrication, electronic tinkering, repairing, hobbyist robotics, and related forms of creative practices involving physical materials and emerging tools and technologies.
 
-## ![jks](http://fablab.muse.it/wp-content/uploads/2016/03/panoramica_small.jpg)
+
 
 # **Join the Community**. Sign up to the Workshopology group to join the discussion, ask questions and share resources about your maker education workshops. 
 
 
 
-# Organize Events**. Workshopology is a series of event that can be organized all around the world. They can be local, national or international. The instructions are open, you can reuse, modify and build upon them. Check them out.
-
-Do you want to run a Workshopology event? Drop us an email and let us know 
+# Organize Events. Workshopology is a series of event that can be organized all around the world. They can be local, national or international. The instructions are open, you can reuse, modify and build upon them. Check them out.
 
 
-## Past events
+
+# Do you want to run a Workshopology event? Drop us an email and let us know 
+
+
+
+# Past events
 
 #### Making laboratories, MUSE Trento, 22-23 May 2016 [more](http://workshopology.github.io/Making%20Laboratories%202016)
 
-![](https://dl.dropboxusercontent.com/u/19237830/panoramica_small.jpg)
+
 
 
 
