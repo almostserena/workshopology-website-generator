@@ -4,15 +4,11 @@ title: Workshopology
 subtitle: Workshopology is a series of events and a community that share and make knowledge around the educational formats in the age of making.
 ---
 
-# What is Workshopology? 
-
-## Workshopology is a series of events and a community that share and make knowledge around education in the age of digital fabrication, electronic tinkering, repairing, hobbyist robotics, and related forms of creative practices involving physical materials and emerging tools and technologies.
+# What is Workshopology? Workshopology is a series of events and a community that share and make knowledge around education in the age of digital fabrication, electronic tinkering, repairing, hobbyist robotics, and related forms of creative practices involving physical materials and emerging tools and technologies.
 
 ---
 
-# **Join the Community**.  
-
-# Sign up to the Workshopology group to join the discussion, ask questions and share resources about your maker education workshops. 
+# **Join the Community**. Sign up to the Workshopology group to join the discussion, ask questions and share resources about your maker education workshops. 
 
 ***
 
@@ -25,13 +21,9 @@ subtitle: Workshopology is a series of events and a community that share and mak
 
 
 
-
-
-
-
 # Past events
 
-#### Making laboratories, MUSE Trento, 22-23 May 2016 [more](http://workshopology.github.io/Making%20Laboratories%202016)
+# Making laboratories, MUSE Trento, 22-23 May 2016 [more](http://workshopology.github.io/Making%20Laboratories%202016)
 
 
 
