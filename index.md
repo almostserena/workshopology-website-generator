@@ -18,9 +18,7 @@ subtitle: Workshopology is a series of events and a community that share and mak
 
 ***
 
-```
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
-```
+![icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png)
 
 # Organize Events. Workshopology is a series of event that can be organized all around the world. They can be local, national or international. The instructions are open, you can reuse, modify and build upon them. Check them out.
 
