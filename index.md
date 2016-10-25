@@ -12,13 +12,15 @@ subtitle: Workshopology is a series of events and a community that share and mak
 
 ---
 
-
+```
+<img style="float: right;" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png">
+```
 
 # **Join the Community**. Sign up to the Workshopology group to join the discussion, ask questions and share resources about your maker education workshops. 
 
 ***
 
-![icon](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png)
+
 
 # Organize Events. Workshopology is a series of event that can be organized all around the world. They can be local, national or international. The instructions are open, you can reuse, modify and build upon them. Check them out.
 
