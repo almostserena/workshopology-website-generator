@@ -8,7 +8,7 @@ subtitle: Workshopology is a series of events and a community that share and mak
 
 ---
 
-# **Join the Community**. Sign up to the Workshopology group to join the discussion, ask questions and share resources about your maker education workshops. 
+# **Join the Community**. Sign up to the [Workshopology group](https://groups.google.com/forum/#!forum/workshopology) to join the discussion, ask questions and share resources about your maker education workshops. 
 
 ***
 
