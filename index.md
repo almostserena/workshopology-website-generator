@@ -4,9 +4,7 @@ title: Workshopology
 subtitle: Workshopology is a series of events and a community that share and make knowledge around the educational formats in the age of making.
 ---
 
-# What is Workshopology?
-
-Workshopology is a series of events and a community that share and make knowledge around education in the age of digital fabrication, electronic tinkering, repairing, hobbyist robotics, and related forms of creative practices involving physical materials and emerging tools and technologies.
+# What is Workshopology?Workshopology is a series of events and a community that share and make knowledge around education in the age of digital fabrication, electronic tinkering, repairing, hobbyist robotics, and related forms of creative practices involving physical materials and emerging tools and technologies.
 
 This website is a repository of resources and documentation aiming at empowering makers, teachers, researchers and all the people interested in implementing maker education formats in formal and informal educational contexts.
 
