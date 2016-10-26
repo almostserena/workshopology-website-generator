@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to 
-subtitle: Tips and tricks to run your own workshopology event
+subtitle: Some ingredients to run a workshopology event
 ---
 
 # What qualities of the maker workshop or staged event distinctively contribute to inquiry outcomes? How should workshops be sequenced? What kinds of activities and prompts best support collaborative inquiry? What sorts of settings and environments (both spatial and technical) best support collaboration and inclusion? What toolkits, materials, tools, and project recipes best support inquiry in these events? How should events be followed up to maximize their impacts? How can positive outcomes of inquiry in such environments be recognized and articulated? 
