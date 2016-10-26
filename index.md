@@ -12,7 +12,7 @@ subtitle: Workshopology is a series of events and a community that share and mak
 
 ***
 
-# Organize Events. Workshopology is a series of event that can be organized all around the world. They can be local, national or international. The instructions are open, you can reuse, modify and build upon them. Check them out.
+# Organize Events. Workshopology is a series of event that can be organized all around the world. They can be local, national or international. The instructions are open, you can reuse, modify and build upon them. [Check "how to" out](http://workshopology.github.io/howto).
 ---
 
 # Past events: [Making laboratories](http://workshopology.github.io/Making%20Laboratories%202016), MUSE Trento, 22-23 May 2016 
