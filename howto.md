@@ -8,15 +8,15 @@ subtitle: Some ingredients to run a workshopology event
 
 ## How to answer to this questions in a Workshopology event:
 
-## 1. Choose a nice ice-breaking for get people 
+## 1. Choose a nice ice-breaking for get people to know each other
 
 ## 2. Ask participants to propose topics and select the ones they consider more interesting to them. Every topics can entail a different set of problems to solve (i.e. teaching biology, cultural differences, communication, family, etc.)
 
-## 3. Create groups by balancing competences and interests. Mix academics and makers, involve people with different point of view, but at least with a bit of experience and hands-on teaching and learning activities
+## 3. Create groups by balancing competences and interests. Mix academics and makers, involve people with different points of view and background, but at least with a bit of experience on hands-on teaching and learning activities
 
-## 4. Ask the groups’ members to share their knowledge or experiences in relation to the selected topics: state of the Art, relevant people, best practices, libraries and resources 
+## 4. Ask the groups’ members to share their knowledge or experiences in relation to the selected topics: state of the art, relevant people, best practices, libraries and resources 
 
-## 5. Ideate and sketch workshops’ formats that are instructables of potential hands-on workshops that address a specific topic.
+## 5. Ideate and sketch workshops’ formats that are instructables of potential hands-on workshops that address the selected topic.
 
 ## 6. Describe the workshop format. Ask people to provide as many details as possible (i.e. the interior design of the learning space)
 

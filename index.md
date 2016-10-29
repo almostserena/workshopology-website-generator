@@ -25,8 +25,6 @@ subtitle: Workshopology is a series of events and a community that share and mak
 
 
 
-# 
-
 
 
 
