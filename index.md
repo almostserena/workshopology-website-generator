@@ -10,7 +10,7 @@ subtitle: Workshopology is a series of events and a community that share and mak
 
 # **Join the Community**. Sign up to the [**Workshopology group**](https://groups.google.com/forum/#!forum/workshopology) to join the discussion, ask questions and share resources about your maker education workshops. 
 
-![prova](http://fablab.muse.it/wp-content/uploads/2016/03/panoramica_small.jpg)
+![prova](https://upload.wikimedia.org/wikipedia/commons/9/92/1923_Daimler_57hp_9.4_Litre_Hooper_Limousine_IMG_1024.jpg)
 
 # **Organize Events**. Workshopology is a series of event that can be organized all around the world. They can be local, national or international. The instructions are open, you can reuse, modify and build upon them. [**Check "how to" out**](http://workshopology.github.io/howto).
 
