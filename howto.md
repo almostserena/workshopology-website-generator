@@ -8,7 +8,11 @@ subtitle: Some ingredients to run a Workshopology event
 
 ## How to answer to this questions in a Workshopology event:
 
-## 1. Choose a nice ice-breaking for get people to know each other
+```
+1. Choose a nice ice-breaking for get people to know each other
+```
+
+## 
 
 ## 2. Ask participants to propose topics and select the ones they consider more interesting to them. Every topics can entail a different set of problems to solve (i.e. teaching biology, cultural differences, communication, family, etc.)
 
